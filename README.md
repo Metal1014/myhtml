@@ -3,20 +3,20 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>My Video Portfolio</title>
+    <title>PinayHotties</title>
 </head>
 <body style="margin:0; font-family: Arial, sans-serif; background:#0f0f0f; color:white;">
 
     <!-- Header -->
     <header style="padding:20px; text-align:center; background:#1a1a1a;">
-        <h1>My Portfolio</h1>
-        <p>Video Creator | Editor | Storyteller</p>
+        <h1>PinayHotties</h1>
+        <p>Entertainment</p>
     </header>
 
     <!-- About Section -->
     <section style="padding:40px; text-align:center;">
-        <h2>About Me</h2>
-        <p>I create engaging video content. Below are some of my featured works.</p>
+        <h2>Best Pinay Scandal Video</h2>
+        <p>Enjoy</p>
     </section>
 
     <!-- Video Portfolio Section -->
@@ -30,7 +30,7 @@
                 Your browser does not support the video tag.
             </video>
             <h3>Project Title 1</h3>
-            <p>Short description of the video project.</p>
+            <p>Short descriptions of the video project.</p>
         </div>
 
         <!-- Video 2 -->
@@ -70,7 +70,7 @@
 
     <!-- Footer -->
     <footer style="padding:20px; text-align:center; background:#1a1a1a;">
-        <p>© 2026 My Portfolio</p>
+        <p>© 2026 PinayHotties</p>
     </footer>
 
 </body>
