@@ -3,19 +3,19 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PinayHotties</title>
+    <title>PH</title>
 </head>
 <body style="margin:0; font-family: Arial, sans-serif; background:#0f0f0f; color:white;">
 
     <!-- Header -->
     <header style="padding:20px; text-align:center; background:#1a1a1a;">
-        <h1>PinayHotties</h1>
+        <h1>PH</h1>
         <p>Entertainment</p>
     </header>
 
     <!-- About Section -->
     <section style="padding:40px; text-align:center;">
-        <h2>Best Pinay Scandal Video</h2>
+        <h2>Best ideo</h2>
         <p>Enjoy</p>
     </section>
 
@@ -70,7 +70,7 @@
 
     <!-- Footer -->
     <footer style="padding:20px; text-align:center; background:#1a1a1a;">
-        <p>© 2026 PinayHotties</p>
+        <p>© 2026 PH</p>
     </footer>
 
 </body>
